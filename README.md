@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Cocorico-Docker
 ===============
 
@@ -111,3 +112,6 @@ License
 -------
 
 Cocorico-Docker is released under the [MIT license](LICENSE).
+=======
+# uboo
+>>>>>>> bde837d29a65d888338297aa0e4117d242aff7c5
