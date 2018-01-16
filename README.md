@@ -20,8 +20,8 @@ Setup
 Clone this repository
 
 ```bash
-cd /path/to/cocorico-project
-git clone https://github.com/Cocolabs-SAS/cocorico-docker.git cocorico-docker
+cd /path/to/project
+git clone https://github.com/zubbyik/uboo.git
 ```
 
 Usage
