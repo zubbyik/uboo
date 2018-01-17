@@ -1,4 +1,4 @@
-Cocorico-Docker For Windows
+Uboo-docker For Windows
 ===========================
 
 Cocorico-Docker is a docker composition providing a complete stack (Linux, Nginx, MySQL, PHP, MongoDB) for running 
